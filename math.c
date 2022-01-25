@@ -15,3 +15,4 @@ return a-b;
 
 }
 
+new method
